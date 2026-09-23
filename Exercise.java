@@ -6,4 +6,4 @@ public class Exercise {
         float Height= 5.2f;
         double Weight= 49; 
 
-        System.out.println()
+        System.out.println("")
